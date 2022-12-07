@@ -1,4 +1,4 @@
-2021/2022 Compilers Coursework
+2021/2022 Compilers Coursework (Rohan Gandhi & Anthony Jones)
 ==============================
 
 There is a single assessed code deliverable, which is due on Tuesday 29 March 2022 at 23:59. This deliverable contains two components:
@@ -12,12 +12,6 @@ Repositories
 
 Each group gets a bare private repository. It is up to you if you want to clone the master specification, or to start from scratch.
 
-Submission
-==========
-
-Submission will be via GitHub (code) and Teams (commit hash), as in the labs.
-
-All submissions will be tested functionally -- there is no expectation for your compiler to *optimise* its input. Moreover, your compiler will only be tested on *valid* inputs, so you do not need to handle faulty inputs in a graceful way.
 
 Changelog
 =========
